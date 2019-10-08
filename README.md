@@ -1,3 +1,6 @@
+# DISCLAIMER
+This is a modified version to use in another project. May not work as is. It is recommended to use the official repo at https://github.com/allenai/lm-explorer
+
 # lm-explorer
 interactive explorer for language models (currently only OpenAI GPT-2)
 
